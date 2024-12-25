@@ -23,7 +23,7 @@ This is a fast-paced side-scrolling game where the player controls a character t
 
 You can play the game by visiting the following link:
 
-[Run and Jump Prototype](https://eddieborbon.github.io/25-5-clock/](https://play.unity.com/en/games/04452778-8b76-4393-9888-7df3c7828ae5/infinity-runner) <!-- Replace with your actual game URL -->
+[Run and Jump Prototype](https://play.unity.com/en/games/04452778-8b76-4393-9888-7df3c7828ae5/infinity-runner) <!-- Replace with your actual game URL -->
 
 ---
 
